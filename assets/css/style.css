@@ -64,10 +64,3 @@
 .pequena{
     width: 33%;
 }
-footer{
-    height: 10vh;
-    background-color: #7878f6;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
